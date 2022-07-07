@@ -1,2 +1,0 @@
-# findsoilmoisture
-Find soil moisture
